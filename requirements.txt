@@ -1,0 +1,33 @@
+# FastAPI and server
+fastapi
+uvicorn
+python-multipart
+
+# LLM client
+openai
+
+# RAG and embeddings
+langchain
+langchain-community
+langchain-google-community
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# PDF processing
+pypdf
+
+# Database (sqlite3 is built into Python, no need to install)
+
+# Data processing
+pandas
+tqdm
+
+# HTTP requests
+requests
+
+# Utilities
+python-dotenv
+
+python-dateutil
